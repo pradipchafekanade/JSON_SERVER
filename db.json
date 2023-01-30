@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "fname": "pradip",
+      "lname": "vicky",
+      "email": "admin@gmail.com",
+      "mobileno": "2",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "fname": "tea",
+      "lname": "shree@gmail.com",
+      "email": "admin@gmail.com",
+      "mobileno": "5",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "fname": "wqqw",
+      "lname": "vicky",
+      "email": "admin@gmail.com",
+      "mobileno": "6",
+      "password": "admin",
+      "id": 3
+    },
+    {
+      "fname": "pradip",
+      "lname": "vicky",
+      "email": "admin@gmail.com",
+      "mobileno": "2",
+      "password": "admin",
+      "id": 4
+    },
+    {
+      "fname": "burger",
+      "lname": "chafekar",
+      "email": "admin@gmail.com",
+      "mobileno": "1",
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "fname": "omkar",
+      "lname": "pawar",
+      "email": "omkar@gmail.com",
+      "mobileno": "234234",
+      "password": "omkar",
+      "id": 6
+    },
+    {
+      "fname": "kuldip",
+      "lname": "vicky",
+      "email": "kuldip@gmail.com",
+      "mobileno": "12",
+      "password": "kuldip",
+      "id": 7
+    }
+  ],
+  "visters": [
+    {}
+  ]
+}
